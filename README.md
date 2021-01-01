@@ -42,7 +42,7 @@
 
 ---
 
-<img align="left" alt="bestieliu" src="https://github-readme-stats.bestieliu.vercel.app/api?username=bestieliu&show_icons=true&hide_border=true" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bestieliu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://github.com/bestieliu
