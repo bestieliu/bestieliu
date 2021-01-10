@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 🤣 I'm seriously learning things at Jetbrain Academy.
 
 ### Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-@ppsdeveloper-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ppsdeveloper) 
