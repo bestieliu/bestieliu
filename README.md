@@ -1,6 +1,6 @@
 ### Hi there, I'm Pond [PPS Developer][website] 👋
 
-## I'm a Student!!
+## I'm a GitHub student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
