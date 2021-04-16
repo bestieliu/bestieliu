@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 🎓 I'm seriously learning things at Youtube.
+- 🎓 I'm seriously learning things at Youtube and TryHackMe.
 
 ### Connect with me:
 [![Mail Badge](https://img.shields.io/badge/-devopstrat-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eyeyoo.pon@gmail.com)
