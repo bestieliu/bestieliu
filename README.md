@@ -38,7 +38,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bestieliu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[tryhackme]: https://tryhackme-badges.s3.amazonaws.com/daneliyafan.png
+[tryhackme]: https://tryhackme.com/badge/497699
 [website]: https://bestieliu.github.io/pageinfo/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
